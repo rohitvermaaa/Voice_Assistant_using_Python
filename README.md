@@ -1,5 +1,3 @@
-Sure, here's a README.md file for your Python AI Personal Assistant:
-
 # Python AI Personal Assistant
 
 This is a Python-based AI personal assistant that can perform various tasks, including answering questions, providing weather updates, opening websites, and more. It uses speech recognition to understand voice commands and text-to-speech synthesis to provide responses.
